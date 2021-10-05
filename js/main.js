@@ -1,7 +1,7 @@
 'use strict';
 
 // Variabel för att spara url
-var url = 'http://studenter.miun.se/~asha1900/dt173g/moment5/rest.php';
+var url = 'http://studenter.miun.se/~asha1900/dt173g/moment5-2/rest.php';
 
 //Händelsehanterare som startar när sidan öppnas
 window.onload = getCourses;
